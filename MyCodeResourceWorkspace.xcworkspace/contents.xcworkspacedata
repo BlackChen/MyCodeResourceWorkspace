@@ -5,9 +5,6 @@
       location = "group:OtherDemoList/OtherDemoList.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:MyDemoList/MyDemoList.xcodeproj">
-   </FileRef>
-   <FileRef
       location = "group:IndividualWorks/IndividualWorks.xcodeproj">
    </FileRef>
    <FileRef
