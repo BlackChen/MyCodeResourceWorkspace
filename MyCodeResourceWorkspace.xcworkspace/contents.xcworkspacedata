@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:OtherDemoList/OtherDemoList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MyDemoList/MyDemoList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IndividualWorks/IndividualWorks.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SoftwareDevelopmentKit/SoftwareDevelopmentKit.xcodeproj">
+   </FileRef>
+</Workspace>
