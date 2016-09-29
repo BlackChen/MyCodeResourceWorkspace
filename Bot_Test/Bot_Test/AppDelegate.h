@@ -12,6 +12,7 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
+    @property (nonatomic, setter) AppDelegate *NS_VALUERE;
 
 @end
 
