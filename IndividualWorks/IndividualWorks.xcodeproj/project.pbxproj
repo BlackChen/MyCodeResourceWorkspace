@@ -16,6 +16,7 @@
 		298904D91D4AE8C500C04321 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 298904D71D4AE8C500C04321 /* LaunchScreen.storyboard */; };
 		298904E41D4AE8C500C04321 /* IndividualWorksTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 298904E31D4AE8C500C04321 /* IndividualWorksTests.m */; };
 		298904EF1D4AE8C500C04321 /* IndividualWorksUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 298904EE1D4AE8C500C04321 /* IndividualWorksUITests.m */; };
+		29B741861DDAF891002C2E88 /* LevelPublicPickView.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B741851DDAF891002C2E88 /* LevelPublicPickView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		298904EA1D4AE8C500C04321 /* IndividualWorksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IndividualWorksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		298904EE1D4AE8C500C04321 /* IndividualWorksUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IndividualWorksUITests.m; sourceTree = "<group>"; };
 		298904F01D4AE8C500C04321 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		29B741841DDAF891002C2E88 /* LevelPublicPickView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LevelPublicPickView.h; sourceTree = "<group>"; };
+		29B741851DDAF891002C2E88 /* LevelPublicPickView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LevelPublicPickView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 			children = (
 				298904CC1D4AE8C500C04321 /* ViewController.h */,
 				298904CD1D4AE8C500C04321 /* ViewController.m */,
+				29B741841DDAF891002C2E88 /* LevelPublicPickView.h */,
+				29B741851DDAF891002C2E88 /* LevelPublicPickView.m */,
 				298904C61D4AE8C500C04321 /* Supporting Files */,
 			);
 			path = IndividualWorks;
@@ -284,6 +289,7 @@
 			files = (
 				298904CE1D4AE8C500C04321 /* ViewController.m in Sources */,
 				298904CB1D4AE8C500C04321 /* AppDelegate.m in Sources */,
+				29B741861DDAF891002C2E88 /* LevelPublicPickView.m in Sources */,
 				298904C81D4AE8C500C04321 /* main.m in Sources */,
 				298904D41D4AE8C500C04321 /* IndividualWorks.xcdatamodeld in Sources */,
 			);
